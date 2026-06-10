@@ -1,0 +1,51 @@
+Build me a complete, polished 2D endless running game using HTML, CSS, and JavaScript (or Phaser.js if needed). The game must be fully playable in browser and mobile-friendly.
+🎮 Game Concept:
+Main character: I will provide a PNG sprite (use a placeholder for now).
+Style: Smooth 2D endless runner (like Chrome Dino / Subway Surfers style but simpler and educational).
+Background: Beautiful natural scenery of Bangladesh (fields, sky, trees, school environment).
+🧠 Core Unique Mechanic (IMPORTANT):
+Obstacles are NOT just physical objects.
+They represent Bangladesh education problems (example: math problem, grammar mistake, science question, general knowledge issue).
+When player hits an obstacle, a popup quiz appears.
+Player must answer correctly to “fix” the problem and continue running.
+Wrong answer = lose life or game over (your choice, but make it balanced and fun).
+🏃 Gameplay:
+Auto-running character.
+Jump + slide controls (keyboard + touch buttons for mobile).
+Increasing speed over time.
+Score system based on distance + correct answers.
+❓ Quiz System:
+Popup UI with multiple-choice questions.
+Questions randomly generated from a question bank.
+Categories: Math, English, Science, Bangladesh general knowledge.
+Clean UI, smooth animation, no lag.
+🎨 UI/UX:
+Premium modern game UI.
+Start menu, pause menu, game over screen.
+Smooth transitions and animations.
+Beautiful fonts and minimal but attractive design.
+🔊 Sound Effects:
+Jump sound
+Correct answer sound
+Wrong answer sound
+Background ambient nature sound (loop)
+Button click sounds
+🌿 Visual Style:
+Natural Bangladesh-inspired environment:
+green fields
+sky gradient
+trees
+school vibe elements
+Parallax scrolling background layers for depth.
+⚙️ Technical Requirements:
+Clean modular code structure.
+Easily replaceable character PNG sprite.
+Works fully offline in browser.
+No external paid assets.
+Optimized for performance (no lag on mobile).
+💡 Extra Features (if possible):
+Power-ups (like “Hint”, “Skip Question”)
+Combo score for correct answers in a row
+Local high score saving (localStorage)
+Simple AI-like random question difficulty scaling
+Make the game feel fun, educational, addictive, and visually premium.
