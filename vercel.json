@@ -1,0 +1,5 @@
+{
+  "buildCommand": "pnpm -C artifacts/banglarun build",
+  "outputDirectory": "artifacts/banglarun/dist",
+  "framework": null
+}
